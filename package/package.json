@@ -1,0 +1,18 @@
+{
+  "name": "@serpgames/flappy-bird",
+  "version": "1.0.0",
+  "description": "Flappy Bird - A classic arcade game where you navigate a bird through pipes",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["game", "flappy-bird", "arcade", "browser-game"],
+  "author": "SERP Games",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serpgames/flappy-bird.git"
+  },
+  "files": [
+    "index.js",
+    "game/"
+  ]
+}
